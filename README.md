@@ -8,6 +8,8 @@
 
 # screenshots
 
+<img src="assets/img/Screen Shot 2022-05-24 at 5.05.37 PM.png">
+
 # Links
 
 * Deployed: https://ianirwin18.github.io/Updated-Portfolio/
